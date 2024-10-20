@@ -30,6 +30,16 @@ const arr=[
  
      },
      {
+        name:"discrete",
+        title:[
+         {"UNIT_1":"Pigeonhole principle,basic counting principles,permutations and combinations of sets and multi sets. Bionomial and multinomial theorms,combinatorial identities,inclusion and exclusion principle, Recurrence relations"},
+         {"UNIT_2":"Generating functions solution of recurrence relations using difference equations and generating functions, Catalan numbers, Difference sequences and Sterling numbers. Partitions as associated to distribution identical objects in identical boxes."},
+         {"UNIT_3":"Elements of Graph Theory, Eulerian and Hamiltonian trails and cycles. Bipartite multigraphs, Trees, Planer graphs, Euler formula."},
+         {"UNIT_4":"Spanning Trees, Algorithams for BFS and DFS trees weighted Graphs, Greedy algorithm and Prim’s Algorithm for generating minimum weight spanning graphs, Digraphs, and Chromatic numbers. (Scope as in Introductory Combinatorics, 5th Edition by R.A. Brualdi , Chapters 1-3,5-8,11 (except § 11.6), 12 .1, 13.1,13.2)"}
+        ]
+ 
+     },
+     {
         name:"group_theory",
         title:[
          {"UNIT_1":"Group actions, Group acting on themselves by left multiplication and conjugation, Stabilizers, orbits and kernels, Orbit-Stabilizer relation, Permutation representation associated with a given group action."},
